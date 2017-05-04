@@ -239,10 +239,10 @@ class  set_auction():
 #
 #        
 #    pre_auction=set_auction(input_sell,input_buy)
-##    buy_data,sell_data=pre_auction.pre_data()
-##    df=pre_auction.compute()
-##    assign_buy_quantity_result,assign_sell_quantity_result=pre_auction.assign_quantity()
-##    buy_mean_voidance_result,sell_mean_voidance_result=pre_auction.mean_voidance()
-##    e=pre_auction.unifiled_voidance()
+#    buy_data,sell_data=pre_auction.pre_data()
+#    df=pre_auction.compute()
+#    assign_buy_quantity_result,assign_sell_quantity_result=pre_auction.assign_quantity()
+#    buy_mean_voidance_result,sell_mean_voidance_result=pre_auction.mean_voidance()
+#    e=pre_auction.unifiled_voidance()
 #    d=pre_auction.undeal()
 #    pre_auction.get_picture()
